@@ -88,7 +88,7 @@ const MediaSearch = () => {
           </Stack>
           <TextField
             color="success"
-            placeholder="cari"
+            placeholder="search movie"
             sx={{ width: "100%" }}
             autoFocus
             onChange={onQueryChange}
