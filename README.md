@@ -1,6 +1,9 @@
 # Movie App menggunakan MERN Stack
 <p>Link demo: https://sylphie-movie-app.vercel.app/</p>
 
+### Tampilan
+![alt text](https://github.com/Akaza22/sylphie-movie-app/blob/master/1.png?raw=true)
+
 ### Deskripsi
 Movie App adalah aplikasi web yang memungkinkan pengguna untuk mencari, menilai, dan menyimpan film favorit mereka. Aplikasi ini dibangun menggunakan teknologi MERN Stack, yaitu MongoDB sebagai database, Express.js sebagai backend framework, React.js sebagai frontend library, dan Node.js sebagai runtime environment.
 
